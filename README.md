@@ -136,9 +136,6 @@ Run the Streamlit application:
 
 streamlit run app.py
 
-After running the command, the dashboard will be available in your browser at:
-
-http://localhost:8501
 
 ---
 
